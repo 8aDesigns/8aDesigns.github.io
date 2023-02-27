@@ -1,0 +1,4 @@
+git clone https://github.com/8aDesigns/8aDesigns.github.io.git
+git add index.html
+git commit -m "mensaje de confirmación"
+git push origin rama
